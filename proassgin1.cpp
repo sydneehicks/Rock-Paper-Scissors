@@ -13,7 +13,7 @@ int main (){
     cout << "Player 1 entered " << player_RPS(player_selection) << " as the choice." << endl;
     
     
-    string choice;
+    string choice; /* computer part done by teacher */
     string computer_selection;
     srand(time(0));
     srand(time(0));
